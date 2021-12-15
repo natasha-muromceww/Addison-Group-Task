@@ -19,7 +19,7 @@ This is a chart of our data and calculations used to make our final product. We 
 
 ### Addison Medium Type Physical Representation
 
-![...](
+![...](https://github.com/natasha-muromceww/Addison-Group-Task/blob/main/Screen%20Shot%202021-12-15%20at%2011.31.51%20AM.png)
 
 We used collages of photos from the Addison arranged in squares representative of the percentage each medium. We found it surprising how many photographs and printes there were becuase those two categories made up about 65% of the collection.
 

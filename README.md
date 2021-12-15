@@ -21,7 +21,6 @@ This is a chart of our data and calculations used to make our final product. We 
 
 ![...](
 
-We used collages of photos from the Addison arranged in squares representative of the percentage each medium. 
-
+We used collages of photos from the Addison arranged in squares representative of the percentage each medium. We found it surprising how many photographs and printes there were becuase those two categories made up about 65% of the collection.
 
 

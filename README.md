@@ -14,7 +14,7 @@ This chart was made using the csv file from the Addison data, link to the Jupyte
 
 ![...](https://github.com/natasha-muromceww/Addison-Group-Task/blob/main/Screen%20Shot%202021-12-15%20at%2011.05.09%20AM.png)
 
-This is a chart of our data and calculations used to make our final product. We listed the type, amount, percentage, the calulation used to make a scaled visual repesentation, and the dimensions per medium on the project. 
+This is a chart of our data and calculations used to make our final product. We listed the type, amount, percentage, the calulation used to make a scaled visual repesentation, and the dimensions per medium on the project. We divided all of the calculations by 6 to scale it.
 
 
 ### Addison Medium Type Physical Representation
